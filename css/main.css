@@ -6,4 +6,13 @@
     border: 10px solid transparent;
     min-height: 30px;
     line-height: 30px;
+    padding: 0px;
+}
+
+.nav {
+	min-height: 60px;
+}
+
+.my-class {
+	min-height: 400px;
 }
